@@ -1,5 +1,5 @@
 # RaspberryPi3-Motor-Measurer
-Moves a motor in one direction if there is an object is near (closer than 30 cm) or in a different one if not.
+Moves a motor in one direction if there is an object is near (closer than 30 cm) or in a different one if not. The measures are conducted via an ultrasonic measurer which sends a sound from a speaker and gets it from a microphone; The code calculates the distance based on how long it took the sound to reach the microphone.
 
 ![](/image-previewpng)
 
